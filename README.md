@@ -6,6 +6,7 @@ This project demonstrates fine-tuning of Large Language Models (LLMs) using two 
 2. **Adapters**: A modular fine-tuning approach where small trainable adapter layers are added to the pre-trained model.
 
 Additionally, this implementation logs loss values for tracking training performance.
+![LORa](https://github.com/user-attachments/assets/0ca86e60-6dc8-459c-aaae-24354319881c)
 
 ## Installation
 To run this project, install the required libraries:
@@ -77,7 +78,7 @@ plt.title("Training Loss Curve")
 plt.legend()
 plt.show()
 
-![LORa](https://github.com/user-attachments/assets/0ca86e60-6dc8-459c-aaae-24354319881c)
+
 
 
 
