@@ -77,6 +77,8 @@ plt.title("Training Loss Curve")
 plt.legend()
 plt.show()
 
+![LORa](https://github.com/user-attachments/assets/a415736c-02ce-4402-be94-d8349251ad1a)
+
 
 
 ## Summary
